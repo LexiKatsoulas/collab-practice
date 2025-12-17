@@ -1,5 +1,6 @@
 class MainView {
     int visits;
+    String title = "Welcome to my app";
     MainView () {
         System.out.print("Hello world");
 
