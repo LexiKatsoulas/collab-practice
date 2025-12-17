@@ -7,5 +7,7 @@ class MainView {
         System.out.print("done");
 
         System.out.print ("Just working, doing my thing, whjat about you?");
+
+        System.out.print("updating main rn");
     }
 }
