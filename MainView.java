@@ -1,4 +1,5 @@
 class MainView {
+    int visits;
     MainView () {
         System.out.print("Hello world");
 
